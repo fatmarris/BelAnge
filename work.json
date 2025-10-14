@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Brushing Élégant",
+    "type": "Coiffure",
+    "image": "imagesBlog/img1.webp"
+  },
+  {
+    "name": "Chignon de Mariage",
+    "type": "Coiffure",
+    "image": "imagesBlog/img2.jpg"
+  },
+  {
+    "name": "Manucure Rose",
+    "type": "Ongles",
+    "image": "imagesBlog/img3.jpg"
+  },
+  {
+    "name": "Maquillage de Soirée",
+    "type": "Maquillage",
+    "image": "imagesBlog/img4.jpg"
+  },
+  {
+    "name": "Maquillage de Mariage",
+    "type": "Maquillage",
+    "image": "imagesBlog/img10.jpg"
+  },
+  {
+    "name": "Brushing Élégant",
+    "type": "Coiffure",
+    "image": "imagesBlog/img1.webp"
+  },
+  {
+    "name": "Soin du Visage",
+    "type": "Esthétique",
+    "image": "imagesBlog/img5.jpg"
+  },
+  {
+    "name": "Pose de Faux Ongles",
+    "type": "Ongles",
+    "image": "imagesBlog/img6.jpg"
+  },
+  {
+    "name": "Maquillage Naturel",
+    "type": "Maquillage",
+    "image": "imagesBlog/img7.jpg"
+  },
+  {
+    "name": "Coiffure Tressée",
+    "type": "Coiffure",
+    "image": "imagesBlog/img8.jpg"
+  },
+  {
+    "name": "Soin des Mains",
+    "type": "Esthétique",
+    "image": "imagesBlog/img9.jpg"
+  },
+  {
+    "name": "Maquillage de Mariage",
+    "type": "Maquillage",
+    "image": "imagesBlog/img10.jpg"
+  },
+  {
+    "name": "Coiffure Courte Stylée",
+    "type": "Coiffure",
+    "image": "imagesBlog/img11.jpg"
+  },
+  {
+    "name": "Maquillage Naturel",
+    "type": "Maquillage",
+    "image": "imagesBlog/img7.jpg"
+  },
+  {
+    "name": "Manucure French",
+    "type": "Ongles",
+    "image": "imagesBlog/img12.webp"
+  },
+  {
+    "name": "Chignon de Mariage",
+    "type": "Coiffure",
+    "image": "imagesBlog/img2.jpg"
+  }
+]

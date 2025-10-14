@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="icon" href="data:,">
+
+    <!-- Changer l'icon du navigateur -->
+    <link rel="icon" type="image/png" href="images/iconNavigateur.png">
+
+
+    <!-- CSS File -->
+    <link rel="stylesheet" href="blog.css">
+
+    <title>BelAnge - Blog</title>
+</head>
+<body>
+    
+    <nav>
+    <header class="header-section">
+        <div class="logo">BelAnge</div>
+
+        <a href="index.html" class="btnAccueil"><ion-icon name="home-outline" class="iconRetour" id="iconRetour"></ion-icon> Accueil</a>
+
+        <div class="section-recherche">
+            <input type="text" id="search" placeholder="Recherche..." aria-label="Filtre par service">
+
+            <select id="serviceFilter" aria-label="Filtre par service">
+                <option value="">Toute les réalisations</option>
+                <option value="Coiffure">Coiffure</option>
+                <option value="Ongles">Beauté des ongles</option>
+                <option value="Maquillage">Maquillage</option>
+            </select>
+            <!-- Dark/light mode -->
+            <button id="theme-switch" title="Change Mode">
+                    <ion-icon name="moon" class="icons"></ion-icon>
+                    <ion-icon name="sunny" class="icons"></ion-icon>
+            </button>
+        </div>
+    </header>
+    </nav>
+
+
+    <main>
+        <section id="works-container">
+            <!-- Les réalisations seront affichées ici dynamiquement -->
+        </section>
+    </main>
+
+
+    <!-- Icons -->
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+    <!-- JS File -->
+     <script src="blog.js"></script>
+
+</body>
+</html>
