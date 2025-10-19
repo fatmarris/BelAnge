@@ -180,7 +180,7 @@ ion-icon.icons:last-child{
     line-height: 1.6;
     margin-bottom: 30px;
 }
-.hero-text .btn {
+/* .hero-text .btn {
     display: inline-block;
     padding: 12px 24px;
     background-color: var(--primary-color);
@@ -193,6 +193,27 @@ ion-icon.icons:last-child{
 .hero-text .btn:hover {
     background-color: #dfb7bff1;
     transform: scale(1.05);
+} */
+.btnHero{
+    display: flex;
+    gap: 25px;
+}
+.btnHero a{
+    background-color: var(--primary-color);
+    padding: 8px 20px;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+}
+.btnHero a:hover{
+    background-color: var(--hover-color);
+    transform: scale(1.05);
+    color: white;
+    text-decoration: none;
+}
+.btnHero .btnAllBlog{
+    background-color: transparent;
+    color: var(--text-color);
+    border: 2px solid var(--primary-color);
 }
 .iconService{
     font-size: 20px;

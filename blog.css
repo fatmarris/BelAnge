@@ -129,6 +129,11 @@ ion-icon.icons:last-child{
   nav .btnAccueil{
     margin: 10px auto;
   }
+  #search{
+    max-width: 80%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
 }
 #works-container {
     display: flex;
@@ -165,5 +170,5 @@ ion-icon.icons:last-child{
 @media screen and (max-width: 768px) {
     #works-container{
         padding-top: 240px;
-    }   
+    }  
 }

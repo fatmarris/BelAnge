@@ -1,46 +1,41 @@
 [
   {
-    "name": "Brushing Élégant",
-    "type": "Coiffure",
+    "name": "Ongles Été",
+    "type": "Ongles",
     "image": "imagesBlog/img1.webp"
   },
   {
-    "name": "Chignon de Mariage",
+    "name": "Coiffure cheveux mi long",
     "type": "Coiffure",
     "image": "imagesBlog/img2.jpg"
   },
   {
-    "name": "Manucure Rose",
+    "name": "Ongles soirée",
     "type": "Ongles",
     "image": "imagesBlog/img3.jpg"
   },
   {
-    "name": "Maquillage de Soirée",
+    "name": "maquillage mariée",
     "type": "Maquillage",
     "image": "imagesBlog/img4.jpg"
   },
   {
-    "name": "Maquillage de Mariage",
-    "type": "Maquillage",
+    "name": "Ongles soirée",
+    "type": "Ongles",
     "image": "imagesBlog/img10.jpg"
   },
   {
-    "name": "Brushing Élégant",
+    "name": "coiffure chignon mariage",
     "type": "Coiffure",
-    "image": "imagesBlog/img1.webp"
-  },
-  {
-    "name": "Soin du Visage",
-    "type": "Esthétique",
     "image": "imagesBlog/img5.jpg"
   },
   {
-    "name": "Pose de Faux Ongles",
+    "name": "Pose de Faux Ongles Été",
     "type": "Ongles",
     "image": "imagesBlog/img6.jpg"
   },
   {
-    "name": "Maquillage Naturel",
+    "name": "Maquillage soirée",
     "type": "Maquillage",
     "image": "imagesBlog/img7.jpg"
   },
@@ -50,33 +45,33 @@
     "image": "imagesBlog/img8.jpg"
   },
   {
-    "name": "Soin des Mains",
-    "type": "Esthétique",
+    "name": "Maquillage simple",
+    "type": "Maquillage",
     "image": "imagesBlog/img9.jpg"
   },
   {
-    "name": "Maquillage de Mariage",
-    "type": "Maquillage",
-    "image": "imagesBlog/img10.jpg"
-  },
-  {
-    "name": "Coiffure Courte Stylée",
+    "name": "Tresses africaines",
     "type": "Coiffure",
     "image": "imagesBlog/img11.jpg"
   },
   {
-    "name": "Maquillage Naturel",
-    "type": "Maquillage",
-    "image": "imagesBlog/img7.jpg"
-  },
-  {
-    "name": "Manucure French",
+    "name": "Pose de Faux Ongles Été",
     "type": "Ongles",
     "image": "imagesBlog/img12.webp"
   },
   {
-    "name": "Chignon de Mariage",
+    "name": "Maquillage naturel",
+    "type": "Maquillage",
+    "image": "imagesBlog/img13.jpg"
+  },
+  {
+    "name": "Coiffure cheveux détachés",
     "type": "Coiffure",
-    "image": "imagesBlog/img2.jpg"
+    "image": "imagesBlog/img14.jpg"
+  },
+  {
+    "name": "Ongles french",
+    "type": "Ongles",
+    "image": "imagesBlog/img15.jpg"
   }
 ]
